@@ -1,5 +1,5 @@
 # microscopio
 
-## Con una webcam 
+### Con una webcam 
 
-### Primer paso
+### Desarmar la camara
