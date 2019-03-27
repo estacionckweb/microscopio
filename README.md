@@ -1,5 +1,9 @@
 # microscopio
 
-### Con una webcam 
+### 1, Tener una camara web
 
-### Desarmar la camara
+### 2. Desarmar la camara
+
+### 3. Quitar el lente y ponerlo al contrario
+
+
