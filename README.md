@@ -5,7 +5,7 @@
 ### 2. Desarmar la camara
 
 ### 3. Quitar el lente y ponerlo al contrario
-###  *Conectar la camara y verificar que funcione
-###
+### * Conectar la camara y verificar que funcione con el computador
+### 5. 
 
 
