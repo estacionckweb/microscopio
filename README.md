@@ -14,7 +14,7 @@
 
 
 
-![foto](/images/logo.png)
+![foto](/images/camara.jpg)
 
 
 
