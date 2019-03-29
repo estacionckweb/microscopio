@@ -14,7 +14,7 @@
 
 
 
-![foto](/images/camara.jpg)
+![foto](/imagenes/Camara.jpg)
 
 
 
