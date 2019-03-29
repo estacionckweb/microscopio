@@ -14,7 +14,7 @@
 
 
 
-![foto](/imagenes/Camara.jpg)
+![foto](/Camara.jpg)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
